@@ -9,3 +9,4 @@ pulseaudio-qt.kdev4
 .cache
 .idea
 /cmake-build*
+.ccls-cache
