@@ -4,7 +4,6 @@ build*
 pulseaudio-qt.kdev4
 
 # LSP & IDE
-/.clang-format
 /compile_commands.json
 .clangd
 .cache
